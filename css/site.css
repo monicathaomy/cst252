@@ -1,5 +1,6 @@
 body {
   background-color: lightgrey;
+  text-align: center;
 }
 
 h1 {
@@ -11,6 +12,7 @@ p {
   font-family: Georgia;
   font-size: 15px;
   color: 	#b382ac;
+  text-align: center;
 }
 img {
 
