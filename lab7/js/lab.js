@@ -23,4 +23,4 @@ function sortUserName() {
 
 
   }
-document.writeIn("I've sorted your name:", sortUserName(), "</br>")
+document.writeIn("I've sorted your name:", sortUserName(), "</br")
