@@ -1,0 +1,35 @@
+#mainidea-button {
+  background-color: #CBC3E3;
+}
+
+#challenges-button {
+  background-color: #CBC3E3;
+}
+
+#results-button {
+  background-color: #CBC3E3;
+}
+
+#mainidea.fred {
+  color: #5f9ea0;
+}
+
+#challenges.george {
+  color: #c78ec2;
+}
+
+#results.sam {
+  color: #9c86ab;
+}
+
+body {
+    font-family:"Georgia";
+    background-color:#d1e4f6;
+    padding: 25px;
+    font-size: 150%;
+    text-align: center;
+    letter-spacing: 2px;
+}
+div {
+    background: linear-gradient(to bottom left, #99ccff 0%, #ffccff 100%);
+}
